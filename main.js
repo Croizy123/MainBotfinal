@@ -106,4 +106,4 @@ client.on('message', message => {
 })
 
 
-client.login('ODE0MjIyNzU0MDQzNjU4MjUw.YDauCA.oUlYMdpJWENEcW0H_gBxyB-2_78');
+client.login('ODE0MjIyNzU0MDQzNjU4MjUw.YDauCA.Rg4pFhE91jXyw0ubKFar-Wvf5_U');
